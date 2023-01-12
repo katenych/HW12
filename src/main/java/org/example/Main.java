@@ -2,7 +2,6 @@ package org.example;
 
 class Person {
     public Person(String name, String lastname, String city, String phone) {
-
         this.name = name;
         this.lastname = lastname;
         this.city = city;
